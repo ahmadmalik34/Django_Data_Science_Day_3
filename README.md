@@ -16,7 +16,7 @@
 
 ## 🎯 Overview
 
-Build a complete blog database with Author, Category, and Post models. Learn Django ORM fundamentals through pure CRUD operations in the Django shell.
+Build a complete blog database with Author, Category, and Post models. Master Django ORM fundamentals through pure CRUD operations in the Django shell.
 
 **No admin panel yet. No web interface. Just models and queries.**
 
